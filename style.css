@@ -748,3 +748,7 @@ a {
 .contact-section {
   border-top: 1px solid oklch(from var(--color-text) l c h / 0.12);
 }
+
+.contact-card {
+  align-items: center;
+}
