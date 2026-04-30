@@ -369,7 +369,7 @@ a {
 .design-groups {
   display: grid;
   gap: clamp(var(--space-10), 6vw, var(--space-16));
-  margin-top: var(--space-10);
+  margin-top: var(--space-6);
 }
 
 .design-group {
